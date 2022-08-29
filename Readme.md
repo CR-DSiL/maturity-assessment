@@ -2,7 +2,7 @@
 
 Please be aware of this before completing our survey: The email you use to log in must be a Google account, and the email used to access the survey results on Google Data Studio must match.
 
-![](media/Maturity%20Assessment%20Survey.mp4)
+![](media/Maturity%20Assessment%20Survey%20-%20Compressed.mp4)
 
 # Inspiration for the idea
 
