@@ -1,5 +1,9 @@
 # Maturity Assessment for Service Delivery
 
+Please be aware of this before completing our survey: The email you use to log in must be a Google account, and the email used to access the survey results on Google Data Studio must match.
+
+![](media/Maturity%20Assessment%20Survey.mp4)
+
 # Inspiration for the idea
 
 Our tech team has seen many product managers and leaders in organizations struggle to understand various team standards and overall performances in a comprehensive manner through simple dashboards. Many used some internal solutions such as excel sheets to evaluate these performance sheets or providing approximate numbers by analysing various systems manually. However, the methods lack proper validation systems to support the submitted metrics. Accurate performance metrics in various areas helps the teams to understand their pain points and resolving these improves the quality in their service delivery.
